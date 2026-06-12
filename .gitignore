@@ -1,0 +1,24 @@
+# Ignore large raw datasets and generated output
+Competition_Testing Data Set 1/
+Competition_Testing Data Set 2/
+Training Dataset/
+predictions/
+predictions_output_test1/
+predictions_output_test2/
+F_Bamidele_SGSMA2026/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/

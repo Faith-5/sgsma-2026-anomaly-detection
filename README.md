@@ -1,4 +1,4 @@
-# SGSMA 2026 — Synchrophasor Anomaly Detection (IEEE 39-Bus System)
+# SGSMA 2026 - Synchrophasor Anomaly Detection (IEEE 39-Bus System)
 
 ## Overview
 
