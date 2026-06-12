@@ -244,7 +244,7 @@ seaborn
 ## Author
 
 Machine Learning Engineer: Faith Bamidele  
-Project Partner: Research collaborator (power systems domain research support)
+Project Partner: Heritage Olayinka (Research collaborator)
 
 ---
 
